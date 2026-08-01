@@ -68,9 +68,9 @@
 
 	<article class="space-y-10 text-base text-fyra-gray-300 sm:text-sm">
 		<section>
-			<h2 class="text-base font-semibold text-fyra-gray-50 sm:text-sm">Our network</h2>
+			<h2 class="text-base font-semibold text-fyra-gray-50 sm:text-sm">Overview</h2>
 			<p class="mt-3 max-w-[65ch] text-pretty">
-				This network carries traffic for our VPS and colocation customers. Sessions and facilities
+				Our network carries traffic for our VPS and colocation customers. Sessions and facilities
 				are on our
 				<a
 					href="https://www.peeringdb.com/net/42060"
